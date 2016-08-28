@@ -16,7 +16,7 @@
 					<li><a href="home.htm">HOME</a></li>
 					<li><a href="html-home.htm">HTML</a></li>
 					<li><a href="javascript-home.htm">JAVA SCRIPT</a></li>
-					<li><a href="java-home.htm">JAVA  kml</a></li>
+					<li><a href="java-home.htm">JAVA</a></li>
 					<li><a href="article-home.htm">ARTICLE</a></li>
 					<c:if test="${sessionScope.userId!=null}">
 						<li><a href="main.topics.htm">ADMIN</a></li>
